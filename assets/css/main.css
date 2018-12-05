@@ -2860,8 +2860,9 @@ ul.buttons {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("../../images/overlay.png"), url("../../images/banner.jpg");
+			background-image: url("images/overlay.png"), url("../../images/banner.jpg");
 			background-size: auto,							cover;
+			background-repeat: repeat, no-repeat;
 		}
 
 			.main.style2 a {
