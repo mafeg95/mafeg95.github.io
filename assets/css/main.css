@@ -3424,7 +3424,7 @@ ul.buttons {
 		/* Header */
 
 			#header {
-				padding: 4em 2em 4em 2em ;
+				padding: 0 ; 
 			}
 
 				#header br {
